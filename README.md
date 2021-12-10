@@ -5,3 +5,8 @@ We have conducted this research and created this blog as a portion of our Advanc
 
 Medium Article: 
 https://medium.com/@caseymcopeland/a-beginners-guide-to-multimodal-models-and-the-need-for-powerful-visual-linguistic-classification-4b19202081b7
+
+Our work reference heavily from the 1st and 2nd place winner of the facebook hateful meme challenge. Thanks to their hard work we were able to learn a lot about this topic, please see below for link to their respective repos:
+
+Ron Zhu: https://github.com/HimariO/HatefulMemesChallenge
+Niklas Muennighoff: https://github.com/Muennighoff/vilio

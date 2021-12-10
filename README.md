@@ -6,6 +6,7 @@ We have conducted this research and created this blog as a portion of our Advanc
 ## Project: Hateful Memes Challenge
 
 Facebook AI hosted a Hateful Memes data challenge in order to develop multimodal machine learning models to detect hate in memes. Hate speech is content on social media that spreads hate via images and text. Hateful memes can be difficult to spot due to their multimodal nature. One modality of the meme, the image, may appear non-hateful while the other modality, the text, is hateful, know as a textual confounder. This means the machine learning model must classify the memes holistically, as humans do, taking into account the multimodal nature, current events, and nuances of humor, such as sarcasm and changing meanings. The goal is to achieve the highest AUROC score when classifying a test set of memes.
+
 Facebook AI's Hateful Memes Challenge: https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/
 
 Medium Article: 

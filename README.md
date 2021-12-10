@@ -14,7 +14,7 @@ Ron Zhu: https://github.com/HimariO/HatefulMemesChallenge
 
 Niklas Muennighoff: https://github.com/Muennighoff/vilio
 
-## Project Topic: Hateful Memes Challenge
+## Project Topic: Facebook AI's Hateful Memes Challenge
 
 Facebook AI hosted a Hateful Memes data challenge in order to develop multimodal machine learning models to detect hate in memes. Hate speech is content on social media that spreads hate via images and text. Hateful memes can be difficult to spot due to their multimodal nature. One modality of the meme, the image, may appear non-hateful while the other modality, the text, is hateful, know as a textual confounder. This means the machine learning model must classify the memes holistically, as humans do, taking into account the multimodal nature, current events, and nuances of humor, such as sarcasm and changing meanings. The goal is to achieve the highest AUROC score when classifying a test set of memes.
 
